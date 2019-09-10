@@ -1,0 +1,15 @@
+div {
+    text-align: center;
+    overflow: hidden;
+    border: 21px solid blue;
+    width: 600px;
+    background-color: blueviolet;
+
+}
+h1{ 
+    font-size: 75;
+}
+
+h5{ 
+    font-size: 30;
+}
